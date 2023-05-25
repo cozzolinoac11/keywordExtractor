@@ -1,4 +1,4 @@
-# keywordExtractor
+# Keyword Extractor
 
 What Is Keyword Extraction? Keyword extraction (also known as keyword detection or keyword analysis) is a text analysis technique that automatically extracts the most used and most important words and expressions from a text. It helps summarize the content of texts and recognize the main topics discussed.
 Every day, internet users create 2.5 quintillion bytes of data. Social media comments, product reviews, emails, blog posts, searches, chats, etc. We have all sorts of unstructured textual data. The question is how to sort through this chaos to find what is relevant.
